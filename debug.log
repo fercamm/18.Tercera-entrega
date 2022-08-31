@@ -1,0 +1,783 @@
+[2022-08-30T20:03:29.428] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:03:29.525] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:04:09.911] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:04:09.950] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:05:08.485] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:05:08.561] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:05:32.631] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:05:32.708] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:08:35.956] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:08:35.996] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:09:37.026] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:09:37.064] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:11:08.311] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:11:08.355] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:11:36.873] [INFO] produccion - fasdfa
+[2022-08-30T20:11:41.673] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:11:41.710] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:11:48.968] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:11:49.004] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:12:00.760] [INFO] produccion - fasdfa
+[2022-08-30T20:12:34.427] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:12:34.469] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:13:14.011] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:13:14.048] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:14:30.971] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:14:31.011] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:15:40.254] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:15:40.289] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:16:26.292] [INFO] produccion - fasdfa
+[2022-08-30T20:16:26.481] [INFO] produccion - User Registration succesful
+[2022-08-30T20:16:26.528] [INFO] produccion - getDatos
+[2022-08-30T20:16:26.528] [INFO] produccion - entra al if
+[2022-08-30T20:16:26.528] [INFO] produccion - {
+  _id: new ObjectId("630e9a4a58f55050c3e18eca"),
+  username: 'fercamm@gmail.com',
+  password: '$2b$10$dAt0qrej2G52/GolnjBiMe60A8EtBhJGIpzpsi1FDP1jktxxbc7k.',
+  name: 'Fernandof',
+  direction: 'Casa',
+  age: 3,
+  phone: 5491134047670,
+  thumbnail: 'lapeli',
+  __v: 0
+}
+[2022-08-30T20:18:27.389] [INFO] produccion - fasdfa
+[2022-08-30T20:18:31.795] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:18:31.836] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:18:48.975] [INFO] produccion - fasdfa
+[2022-08-30T20:18:49.116] [INFO] produccion - User Registration succesful
+[2022-08-30T20:18:49.137] [INFO] produccion - getDatos
+[2022-08-30T20:18:49.137] [INFO] produccion - entra al if
+[2022-08-30T20:18:49.138] [INFO] produccion - {
+  _id: new ObjectId("630e9ad89ebc7fe1ae8cd3db"),
+  username: 'fercammff@gmail.com',
+  password: '$2b$10$t1cRwZJaXmLAQ6VMD9oIJucgh9BLK9Dthpk6Vto1Qgz8MGNnRDsYi',
+  name: 'Fernf',
+  direction: 'Casa',
+  age: 22,
+  phone: 5491134047670,
+  __v: 0
+}
+[2022-08-30T20:20:00.014] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:20:00.053] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:20:01.721] [INFO] produccion - getDatos
+[2022-08-30T20:20:14.333] [INFO] produccion - fasdfa
+[2022-08-30T20:20:14.500] [INFO] produccion - User Registration succesful
+[2022-08-30T20:20:14.511] [INFO] produccion - getDatos
+[2022-08-30T20:20:14.512] [INFO] produccion - entra al if
+[2022-08-30T20:20:14.512] [INFO] produccion - {
+  _id: new ObjectId("630e9b2e5d921de9a6e52baa"),
+  username: 'fasdf@fasde.ce',
+  password: '$2b$10$mZImO6EE.SLlfk1YCc4UZ.my90u2kyeLLNiBVTPUG7OIoTiQwd7zW',
+  name: 'fef',
+  direction: 'fe',
+  age: 3,
+  phone: 123,
+  __v: 0
+}
+[2022-08-30T20:20:45.515] [INFO] produccion - fasdfa
+[2022-08-30T20:20:45.645] [INFO] produccion - User Registration succesful
+[2022-08-30T20:20:45.653] [INFO] produccion - getDatos
+[2022-08-30T20:20:45.653] [INFO] produccion - entra al if
+[2022-08-30T20:20:45.653] [INFO] produccion - {
+  _id: new ObjectId("630e9b4d5d921de9a6e52bb0"),
+  username: 'fas@fasde.ce',
+  password: '$2b$10$4EFK6mHpiqtP2RQA48sPL.MAcAizorlvOv5auDJBnQoAHaaAnFx/y',
+  name: 'fer',
+  direction: 'fdf',
+  age: 12,
+  phone: 123123,
+  __v: 0
+}
+[2022-08-30T20:29:52.105] [ERROR] produccion - Invalid password
+[2022-08-30T20:29:52.107] [ERROR] produccion - mensage Invalid Password
+[2022-08-30T20:29:58.506] [ERROR] produccion - Invalid password
+[2022-08-30T20:29:58.506] [ERROR] produccion - mensage Invalid Password
+[2022-08-30T20:30:18.221] [INFO] produccion - fasdfa
+[2022-08-30T20:30:18.425] [INFO] produccion - User Registration succesful
+[2022-08-30T20:30:18.436] [INFO] produccion - getDatos
+[2022-08-30T20:30:18.436] [INFO] produccion - entra al if
+[2022-08-30T20:30:18.436] [INFO] produccion - {
+  _id: new ObjectId("630e9d8a5d921de9a6e52bbf"),
+  username: 'fercamm@gmail.com123',
+  password: '$2b$10$35x2DRXitgKvMDIX3VcRRuMPsNLPwQNsixwbMdJA81MYkuNmF627.',
+  name: 'fer',
+  direction: 'Casa',
+  age: 22,
+  phone: 1134047670,
+  __v: 0
+}
+[2022-08-30T20:30:23.879] [ERROR] produccion - Invalid password
+[2022-08-30T20:30:23.879] [ERROR] produccion - mensage Invalid Password
+[2022-08-30T20:30:29.002] [ERROR] produccion - Invalid password
+[2022-08-30T20:30:29.002] [ERROR] produccion - mensage Invalid Password
+[2022-08-30T20:30:33.814] [INFO] produccion - getDatos
+[2022-08-30T20:30:33.814] [INFO] produccion - entra al if
+[2022-08-30T20:30:33.814] [INFO] produccion - {
+  _id: new ObjectId("630e9d8a5d921de9a6e52bbf"),
+  username: 'fercamm@gmail.com123',
+  password: '$2b$10$35x2DRXitgKvMDIX3VcRRuMPsNLPwQNsixwbMdJA81MYkuNmF627.',
+  name: 'fer',
+  direction: 'Casa',
+  age: 22,
+  phone: 1134047670,
+  __v: 0
+}
+[2022-08-30T20:30:49.835] [INFO] produccion - fasdfa
+[2022-08-30T20:30:49.990] [INFO] produccion - User Registration succesful
+[2022-08-30T20:30:49.998] [INFO] produccion - getDatos
+[2022-08-30T20:30:49.998] [INFO] produccion - entra al if
+[2022-08-30T20:30:49.998] [INFO] produccion - {
+  _id: new ObjectId("630e9da95d921de9a6e52bcf"),
+  username: 'fercamm@gmail.com12345',
+  password: '$2b$10$Le3N9Zf3cE00nhNDhmZ7pu/06D2oajKzWCpaL.3MP/8n0VBHu5cj.',
+  name: 'fer',
+  direction: 'fer',
+  age: 22,
+  phone: 123123,
+  __v: 0
+}
+[2022-08-30T20:30:54.252] [INFO] produccion - getDatos
+[2022-08-30T20:30:54.252] [INFO] produccion - entra al if
+[2022-08-30T20:30:54.252] [INFO] produccion - {
+  _id: new ObjectId("630e9da95d921de9a6e52bcf"),
+  username: 'fercamm@gmail.com12345',
+  password: '$2b$10$Le3N9Zf3cE00nhNDhmZ7pu/06D2oajKzWCpaL.3MP/8n0VBHu5cj.',
+  name: 'fer',
+  direction: 'fer',
+  age: 22,
+  phone: 123123,
+  __v: 0
+}
+[2022-08-30T20:32:18.889] [INFO] produccion - fasdfa
+[2022-08-30T20:32:19.045] [INFO] produccion - User Registration succesful
+[2022-08-30T20:32:19.056] [INFO] produccion - getDatos
+[2022-08-30T20:32:19.056] [INFO] produccion - entra al if
+[2022-08-30T20:32:19.056] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:32:26.285] [ERROR] produccion - Invalid password
+[2022-08-30T20:32:26.285] [ERROR] produccion - mensage Invalid Password
+[2022-08-30T20:32:31.577] [INFO] produccion - getDatos
+[2022-08-30T20:32:31.577] [INFO] produccion - entra al if
+[2022-08-30T20:32:31.577] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:32:55.352] [INFO] produccion - getDatos
+[2022-08-30T20:32:55.352] [INFO] produccion - entra al if
+[2022-08-30T20:32:55.352] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:33:00.732] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:33:00.768] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:33:06.628] [INFO] produccion - getDatos
+[2022-08-30T20:33:06.628] [INFO] produccion - entra al if
+[2022-08-30T20:33:06.628] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:33:27.307] [INFO] produccion - getDatos
+[2022-08-30T20:33:27.307] [INFO] produccion - entra al if
+[2022-08-30T20:33:27.307] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:33:32.158] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:33:32.193] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:33:34.682] [INFO] produccion - getDatos
+[2022-08-30T20:33:34.682] [INFO] produccion - entra al if
+[2022-08-30T20:33:34.682] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:36:23.003] [INFO] produccion - getDatos
+[2022-08-30T20:36:23.003] [INFO] produccion - entra al if
+[2022-08-30T20:36:23.003] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:36:38.699] [INFO] produccion - getDatos
+[2022-08-30T20:36:38.699] [INFO] produccion - entra al if
+[2022-08-30T20:36:38.699] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:37:00.837] [INFO] produccion - getDatos
+[2022-08-30T20:37:00.837] [INFO] produccion - entra al if
+[2022-08-30T20:37:00.837] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:46:19.101] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:46:19.184] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:46:29.748] [INFO] produccion - getDatos
+[2022-08-30T20:46:29.748] [INFO] produccion - entra al if
+[2022-08-30T20:46:29.748] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:46:50.372] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:46:50.490] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:47:32.028] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:47:32.145] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:47:42.549] [INFO] produccion - getDatos
+[2022-08-30T20:47:42.549] [INFO] produccion - entra al if
+[2022-08-30T20:47:42.549] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:48:29.032] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:48:29.074] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:48:38.466] [INFO] produccion - getDatos
+[2022-08-30T20:48:38.466] [INFO] produccion - entra al if
+[2022-08-30T20:48:38.466] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:49:55.251] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:49:55.293] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:50:02.728] [INFO] produccion - getDatos
+[2022-08-30T20:50:02.728] [INFO] produccion - entra al if
+[2022-08-30T20:50:02.728] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:50:38.789] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:50:38.826] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:50:47.985] [INFO] produccion - getDatos
+[2022-08-30T20:50:47.985] [INFO] produccion - entra al if
+[2022-08-30T20:50:47.985] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:51:30.745] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:51:30.815] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:51:40.890] [INFO] produccion - getDatos
+[2022-08-30T20:51:40.890] [INFO] produccion - entra al if
+[2022-08-30T20:51:40.890] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:53:13.093] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:53:13.162] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:53:20.509] [INFO] produccion - getDatos
+[2022-08-30T20:53:20.509] [INFO] produccion - entra al if
+[2022-08-30T20:53:20.509] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:53:53.021] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:53:53.118] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:54:00.053] [INFO] produccion - getDatos
+[2022-08-30T20:54:00.053] [INFO] produccion - entra al if
+[2022-08-30T20:54:00.053] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T20:58:05.156] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T20:58:05.269] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T20:58:10.895] [INFO] produccion - getDatos
+[2022-08-30T20:58:10.896] [INFO] produccion - entra al if
+[2022-08-30T20:58:10.896] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:00:51.997] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:00:52.040] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:01:03.122] [INFO] produccion - getDatos
+[2022-08-30T21:01:03.122] [INFO] produccion - entra al if
+[2022-08-30T21:01:03.122] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:02:08.161] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:02:08.203] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:02:13.229] [INFO] produccion - getDatos
+[2022-08-30T21:02:13.230] [INFO] produccion - entra al if
+[2022-08-30T21:02:13.230] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:04:10.657] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:04:10.701] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:04:27.945] [INFO] produccion - getDatos
+[2022-08-30T21:04:27.946] [INFO] produccion - entra al if
+[2022-08-30T21:04:27.946] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:06:25.372] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:06:25.412] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:06:32.741] [INFO] produccion - getDatos
+[2022-08-30T21:06:32.741] [INFO] produccion - entra al if
+[2022-08-30T21:06:32.741] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:07:20.328] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:07:20.365] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:07:36.378] [INFO] produccion - getDatos
+[2022-08-30T21:07:36.378] [INFO] produccion - entra al if
+[2022-08-30T21:07:36.378] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:08:13.804] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:08:13.841] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:08:20.050] [INFO] produccion - getDatos
+[2022-08-30T21:08:20.050] [INFO] produccion - entra al if
+[2022-08-30T21:08:20.050] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0
+}
+[2022-08-30T21:08:24.459] [INFO] produccion - User Registration succesful
+[2022-08-30T21:12:05.940] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:12:05.982] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:12:18.948] [INFO] produccion - getDatos
+[2022-08-30T21:12:18.948] [INFO] produccion - entra al if
+[2022-08-30T21:12:18.948] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:14:07.593] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:14:07.629] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:14:14.586] [INFO] produccion - getDatos
+[2022-08-30T21:14:14.586] [INFO] produccion - entra al if
+[2022-08-30T21:14:14.586] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:14:43.955] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:14:43.990] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:14:50.796] [INFO] produccion - getDatos
+[2022-08-30T21:14:50.796] [INFO] produccion - entra al if
+[2022-08-30T21:14:50.796] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:15:49.613] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:15:49.651] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:15:56.512] [INFO] produccion - getDatos
+[2022-08-30T21:15:56.512] [INFO] produccion - entra al if
+[2022-08-30T21:15:56.512] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:16:50.575] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:16:50.614] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:16:57.517] [INFO] produccion - getDatos
+[2022-08-30T21:16:57.517] [INFO] produccion - entra al if
+[2022-08-30T21:16:57.517] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:18:35.579] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:18:35.616] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:18:42.926] [INFO] produccion - getDatos
+[2022-08-30T21:18:42.926] [INFO] produccion - entra al if
+[2022-08-30T21:18:42.926] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:20:19.015] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:20:19.068] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:20:25.698] [INFO] produccion - getDatos
+[2022-08-30T21:20:25.698] [INFO] produccion - entra al if
+[2022-08-30T21:20:25.698] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:20:58.261] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:20:58.298] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:21:04.050] [INFO] produccion - getDatos
+[2022-08-30T21:21:04.050] [INFO] produccion - entra al if
+[2022-08-30T21:21:04.051] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:22:06.223] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:22:06.264] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:22:11.662] [INFO] produccion - getDatos
+[2022-08-30T21:22:11.662] [INFO] produccion - entra al if
+[2022-08-30T21:22:11.663] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:26:43.807] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:26:43.846] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:26:49.815] [INFO] produccion - getDatos
+[2022-08-30T21:26:49.815] [INFO] produccion - entra al if
+[2022-08-30T21:26:49.815] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:28:08.741] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:28:08.803] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:28:14.837] [INFO] produccion - getDatos
+[2022-08-30T21:28:14.837] [INFO] produccion - entra al if
+[2022-08-30T21:28:14.837] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:30:13.858] [INFO] produccion - getDatos
+[2022-08-30T21:30:13.858] [INFO] produccion - entra al if
+[2022-08-30T21:30:13.858] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:31:30.770] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:31:30.811] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:31:36.725] [INFO] produccion - getDatos
+[2022-08-30T21:31:36.725] [INFO] produccion - entra al if
+[2022-08-30T21:31:36.725] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:32:24.909] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:32:24.958] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:32:32.828] [INFO] produccion - getDatos
+[2022-08-30T21:32:32.828] [INFO] produccion - entra al if
+[2022-08-30T21:32:32.828] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:34:20.582] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:34:20.634] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:34:26.698] [INFO] produccion - getDatos
+[2022-08-30T21:34:26.699] [INFO] produccion - entra al if
+[2022-08-30T21:34:26.699] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:34:55.035] [INFO] produccion - Servidor HTTP escuando en el puerto 8080
+[2022-08-30T21:34:55.069] [DEBUG] produccion - Conectado a la base de datos mongo...
+[2022-08-30T21:35:02.342] [INFO] produccion - getDatos
+[2022-08-30T21:35:02.342] [INFO] produccion - entra al if
+[2022-08-30T21:35:02.342] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:35:20.145] [INFO] produccion - getDatos
+[2022-08-30T21:35:20.145] [INFO] produccion - entra al if
+[2022-08-30T21:35:20.145] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:35:31.924] [INFO] produccion - getDatos
+[2022-08-30T21:35:31.924] [INFO] produccion - entra al if
+[2022-08-30T21:35:31.924] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:38:58.844] [INFO] produccion - getDatos
+[2022-08-30T21:38:58.844] [INFO] produccion - entra al if
+[2022-08-30T21:38:58.844] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:44:10.610] [INFO] produccion - getDatos
+[2022-08-30T21:44:10.610] [INFO] produccion - entra al if
+[2022-08-30T21:44:10.610] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
+[2022-08-30T21:44:43.546] [INFO] produccion - getDatos
+[2022-08-30T21:44:43.546] [INFO] produccion - entra al if
+[2022-08-30T21:44:43.546] [INFO] produccion - {
+  _id: new ObjectId("630e9e025d921de9a6e52bdc"),
+  username: 'fer@fer.fer',
+  password: '$2b$10$3k99iCqUdWghrFvHhiuChO5l7KX7HunflzB4TfrAaS68e7T5JiRDS',
+  name: 'ferfer',
+  direction: 'ferfer',
+  age: 22,
+  phone: 313123123,
+  __v: 0,
+  thumbnail: '1deec3ea-3265-42b9-b49c-cb36eb5f6fb4.jpeg'
+}
